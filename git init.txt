@@ -1,2 +1,2 @@
-git init
+I AM LEARNING GIT
 
